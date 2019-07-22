@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<messages>
+    <message>
+        <title isOfficial="true">抖音小助手</title>
+        <hashtag>*抖音小助手*</hashtag>
+        <time>昨天</time>
+        <icon>TYPE_ROBOT</icon>
+    </message>
+    <message>
+        <title isOfficial="true">游戏小助手</title>
+        <hashtag>*游戏小助手*</hashtag>
+        <time>刚刚</time>
+        <icon>TYPE_GAME</icon>
+    </message>
+    <message>
+        <title isOfficial="true">系统消息</title>
+        <hashtag>*系统消息*</hashtag>
+        <time>7-21</time>
+        <icon>TYPE_SYSTEM</icon>
+    </message>
+    <message>
+        <title isOfficial="false">陌生人消息</title>
+        <hashtag>*陌生人消息*</hashtag>
+        <time>7-20</time>
+        <icon>TYPE_STRANGER</icon>
+    </message>
+
+    <message>
+        <title isOfficial="false">张三</title>
+        <hashtag>*张三*</hashtag>
+        <time>7-22</time>
+        <icon>TYPE_USER</icon>
+    </message>
+    <message>
+        <title isOfficial="true">李四</title>
+        <hashtag>*李四*</hashtag>
+        <time>昨天</time>
+        <icon>TYPE_USER</icon>
+    </message>
+    <message>
+        <title isOfficial="true">抖音小助手</title>
+        <hashtag>*抖音小助手*</hashtag>
+        <time>昨天</time>
+        <icon>TYPE_ROBOT</icon>
+    </message>
+    <message>
+        <title isOfficial="true">游戏小助手</title>
+        <hashtag>*游戏小助手*</hashtag>
+        <time>刚刚</time>
+        <icon>TYPE_GAME</icon>
+    </message>
+    <message>
+        <title isOfficial="true">系统消息</title>
+        <hashtag>*系统消息*</hashtag>
+        <time>7-21</time>
+        <icon>TYPE_SYSTEM</icon>
+    </message>
+    <message>
+        <title isOfficial="false">陌生人消息</title>
+        <hashtag>*陌生人消息*</hashtag>
+        <time>7-20</time>
+        <icon>TYPE_STRANGER</icon>
+    </message>
+
+    <message>
+        <title isOfficial="false">张三</title>
+        <hashtag>*张三*</hashtag>
+        <time>7-22</time>
+        <icon>TYPE_USER</icon>
+    </message>
+    <message>
+        <title isOfficial="true">李四</title>
+        <hashtag>*李四*</hashtag>
+        <time>昨天</time>
+        <icon>TYPE_USER</icon>
+    </message>
+    <message>
+        <title isOfficial="true">系统消息</title>
+        <hashtag>*系统消息*</hashtag>
+        <time>7-21</time>
+        <icon>TYPE_SYSTEM</icon>
+    </message>
+    <message>
+        <title isOfficial="false">陌生人消息</title>
+        <hashtag>*陌生人消息*</hashtag>
+        <time>7-20</time>
+        <icon>TYPE_STRANGER</icon>
+    </message>
+
+
+</messages>

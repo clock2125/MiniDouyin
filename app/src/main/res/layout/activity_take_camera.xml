@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SurfaceView
+        android:id="@+id/take_camrea_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/take_camera_picture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/take_camrea_img"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginBottom="7dp"
+        android:src="@drawable/camera" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/take_camera_record"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/take_camera_picture"
+        android:backgroundTint="@color/design_default_color_primary"
+        android:src="@drawable/record_light" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/take_camera_facing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/reverse"
+
+        android:backgroundTint="@color/colorPrimary"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/take_camera_light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/light"
+        android:backgroundTint="@color/design_default_color_primary_dark"/>
+
+
+</RelativeLayout>
